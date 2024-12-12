@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master Student in AI from <a href="https://gsai.kaist.ac.kr/">KAIST</a>
+subtitle: Master Student at <a href="https://gsai.kaist.ac.kr/">Kim Jaechul Graduate School of AI, KAIST</a>
 
 profile:
   align: right
